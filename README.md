@@ -32,9 +32,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="MATLAB" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/Verilog-Solutions/.github/main/assets/verilog-logo.svg" alt="Verilog" width="20" height="60"/>
+  <img src="https://raw.githubusercontent.com/Verilog-Solutions/.github/main/assets/verilog-logo.svg" alt="Verilog" width="60" height="20"/>
   <img src="https://miro.medium.com/v2/resize:fit:1000/1*5-aoK8IBmXve5whBQM90GA.png" alt="Flutter" width="40" height="40"/>
-  <img src="https://i0.wp.com/everyday.codes/wp-content/uploads/2019/11/0-nsbIYn7PGj9YK3dB.png?fit=1100%2C617&ssl=1" alt="Dart" width="20" height="60"/>
+  <img src="https://i0.wp.com/everyday.codes/wp-content/uploads/2019/11/0-nsbIYn7PGj9YK3dB.png?fit=1100%2C617&ssl=1" alt="Dart" width="60" height="20"/>
 </p>
 
 ---
