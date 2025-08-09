@@ -17,10 +17,10 @@
 
 🎯 **Hakkımda Kısaca**
 
-- 👨‍💻 Bilgisayar Mühendisliği 2. sınıf öğrencisiyim.
+- 👨‍💻 Bilgisayar Mühendisliği 3. sınıf öğrencisiyim.
 - 🚀 Yazılım geliştirme, algoritmalar ve sistem programlama konularında kendimi geliştiriyorum.
 - 💡 C, Java ve Python dillerinde projeler geliştiriyorum.
-- 🌱 Şu anda Verilog, MATLAB ve algoritma temelli çalışmalara odaklanıyorum.
+- 🌱 Şu anda Flutter üzerinde mobil uygulama geliştirmeye odaklanıyorum.
 - 🧠 "Sürekli öğrenme" mottosuyla hareket ediyorum.
 
 ---
