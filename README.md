@@ -20,7 +20,7 @@
 - 👨‍💻 Bilgisayar Mühendisliği 3. sınıf öğrencisiyim.
 - 🚀 Yazılım geliştirme, algoritmalar ve sistem programlama konularında kendimi geliştiriyorum.
 - 💡 C, Java ve Python dillerinde projeler geliştiriyorum.
-- 🌱 Şu anda Flutter üzerinde mobil uygulama geliştirmeye odaklanıyorum.
+- 🌱 Şu anda Assembly dili üzerinde çalışıyorum.
 - 🧠 "Sürekli öğrenme" mottosuyla hareket ediyorum.
 
 ---
