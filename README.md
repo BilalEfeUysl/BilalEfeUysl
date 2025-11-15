@@ -33,8 +33,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="MATLAB" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/Verilog-Solutions/.github/main/assets/verilog-logo.svg" alt="Verilog" width="80" height="40"/>
-  <img src="https://miro.medium.com/v2/resize:fit:1000/1*5-aoK8IBmXve5whBQM90GA.png" alt="Flutter" width="40" height="40"/>
-  <img src="https://i0.wp.com/everyday.codes/wp-content/uploads/2019/11/0-nsbIYn7PGj9YK3dB.png?fit=1100%2C617&ssl=1" alt="Dart" width="80" height="40"/>
+  <img src="https://media.licdn.com/dms/image/v2/D4D12AQEM9F_-u1OT5Q/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1658763190886?e=2147483647&v=beta&t=aEp72fzTRZC_0EilFbT0wVV2jw6O-Bqt759qLG4pLrw" alt="Assembly" width="40" height="40"/>
 </p>
 
 ---
