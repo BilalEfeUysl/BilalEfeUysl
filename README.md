@@ -20,8 +20,8 @@
 - 👨‍💻 **Yıldız Teknik Üniversitesi**'nde Bilgisayar Mühendisliği 3. sınıf öğrencisiyim (GANO: 3.43).
 - 🚀 **Backend Geliştirme**, **Yapay Zeka (Görüntü İşleme)** ve **Veritabanı Yönetimi** alanlarına odaklanıyorum.
 - 💡 Şu anda **Mosaic ArGe** bünyesinde uydu görüntülerini analiz eden yapay zeka modellerinin metrik değerlendirmeleri üzerine çalışıyorum.
-- 🛠️ Üniversite spor tesisleri için **HAS-System** adında full-stack bir rezervasyon projesi geliştiriyorum.
-- 🧠 "Sürekli öğrenme" mottosuyla hareket ediyor; kodlamadan arta kalan zamanlarımda **fitness** yapıyor, **gitar** çalıyor ve **bilim kurgu/polisiye** kitapları okuyorum.
+- 🛠️ Üniversite spor tesisleri için full-stack bir rezervasyon projesi geliştiriyorum.
+- 🧠 "Sürekli öğrenme" mottosuyla hareket ediyorum.
 
 ---
 
